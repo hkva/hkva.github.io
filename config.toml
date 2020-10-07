@@ -1,4 +1,4 @@
-baseURL = "http://hkva.net/"
+baseURL = "https://hkva.net/"
 languageCode = "en-us"
 title = "hkva.net"
 theme = "fuji"

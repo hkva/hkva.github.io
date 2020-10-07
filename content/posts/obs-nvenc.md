@@ -11,8 +11,8 @@ again. If you haven't played it, all you need to know is that it's a fun time. T
 bosses, crazy spells, and lots and lots of critical hits. Usually, I like to record some of this insanity and share it
 with my friends.
 
-On Windows 10, there's a feature called "Windows Game DVR" that allows you to record the last X seconds of gameplay and
-save it as a video file. This time around, I'm on Linux, where no such option exists. The closes thing for us poor, sad 
+On Windows 10, there's a feature called "Windows Game DVR" that allows you to record the last X seconds of game play and
+save it as a video file. This time around, I'm on Linux, where no such option exists. The closest thing for us poor, sad 
 Linux users is [OBS](https://obsproject.com/), which has a "replay buffer" feature that can be used to save game clips
 in a similar manner.
 

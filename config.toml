@@ -1,4 +1,4 @@
 baseURL = "http://hkva.net/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "hkva.net"
 theme = "fuji"
